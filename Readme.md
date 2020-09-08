@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Сергей Грищенко](https://up.htmlacademy.ru/htmlcss/29/user/1580863).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Жарков] (https://htmlacademy.ru/profile/stalyer)
 
 ---
 
